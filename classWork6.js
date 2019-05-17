@@ -3,7 +3,7 @@
 // task 1
 // 1.1 В ответе есть заголовок "access-control-allow-origin: *"
 // 1.2 В ответе нет заголовков "response-headers"
-// 1.3 В ответе есть заголовок "access-control-allow-origin: https://facebool.com"
+// 1.3 В ответе есть заголовок "access-control-allow-origin: https://facebook.com"
 
 // task 2
 function sentRequest(url) {
